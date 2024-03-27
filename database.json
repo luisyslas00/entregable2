@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Arroz",
+		"description": "Parboil",
+		"price": 2200,
+		"thumbnail": "https://www.google.com.ar/",
+		"code": "ASHSEJ1928",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Fideos",
+		"description": "Tallarines",
+		"price": 990,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "AKASJA28171",
+		"stock": 100
+	},
+	{
+		"id": 3,
+		"title": "Gaseosa",
+		"description": "Pepsi",
+		"price": 1200,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "AKASJA28201",
+		"stock": 100
+	},
+	{
+		"id": 4,
+		"title": "Puré de tomate",
+		"description": "Botella 1L",
+		"price": 740,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "AKASJAURHJ1",
+		"stock": 100
+	},
+	{
+		"id": 5,
+		"title": "Servilletas",
+		"description": "3 rollos",
+		"price": 2100,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "ASIAUJSKA19",
+		"stock": 100
+	},
+	{
+		"id": 6,
+		"title": "Carne Picada",
+		"description": "500 gr",
+		"price": 2500,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "ASIAUJSUAJ9",
+		"stock": 20
+	},
+	{
+		"id": 7,
+		"title": "Agua",
+		"description": "Botella 2L",
+		"price": 1100,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "ASI982SKA19",
+		"stock": 80
+	},
+	{
+		"id": 8,
+		"title": "Galletas Rumba",
+		"description": "Chocolate 160gr",
+		"price": 800,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "ASIAUJSK09SY",
+		"stock": 70
+	},
+	{
+		"id": 9,
+		"title": "Mermelada",
+		"description": "Durazno",
+		"price": 3000,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "ASIAUJSLIKUS",
+		"stock": 110
+	},
+	{
+		"id": 10,
+		"title": "Helado",
+		"description": "3 sabores",
+		"price": 5000,
+		"thumbnail": "https://www.google.com.ar",
+		"code": "ASIAUJMNAJSU",
+		"stock": 20
+	}
+]
